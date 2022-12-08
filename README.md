@@ -1,16 +1,20 @@
 ### Hi there 👋
 
-<!--
-**Jimbozz/Jimbozz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a newly graduated front-end developer from South Africa based in Oslo, Norway 🇳🇴
 
-Here are some ideas to get you started:
+---
+<p align="center">
+  <a href="https://jamesbadenhorst.netlify.app/">Website</a> •
+  <a href="https://www.linkedin.com/in/jamesbadenhorst/">LinkedIn</a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## Bio
+
+
+- 🌱 I’m currently focusing on: **React**, **Typescript**, **GraphQL**
+- 👯 I’m looking to collaborate on: Any new projects to broaden my skills.
+- 🤔 I’m looking for help with: React, Typescript.
+- 💬 Ping me about **design**, **branding**, **Product-design**, **development**
+- ⚙️ I use daily: `.js`, `.html`, `.css`, `.svg`, `.psd`, `.ai`
