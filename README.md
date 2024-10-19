@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a newly graduated front-end developer from South Africa based in Oslo, Norway 🇳🇴
+I'm a front-end developer from South Africa based in Oslo 🇳🇴. My background is in product development, design and front-end.
 
 ---
 <p align="center">
@@ -13,8 +13,7 @@ I'm a newly graduated front-end developer from South Africa based in Oslo, Norwa
 ## Bio
 
 
-- 🌱 I’m currently focusing on: **React**, **Typescript**, **GraphQL**
+- 🌱 I’m currently focusing on: **React**, **Next.js**, **Typescript**, **GraphQL**
 - 👯 I’m looking to collaborate on: Any new projects to broaden my skills.
-- 🤔 I’m looking for help with: React, Typescript.
 - 💬 Ping me about **design**, **branding**, **Product-design**, **development**
 - ⚙️ I use daily: `.js`, `.html`, `.css`, `.svg`, `.psd`, `.ai`
